@@ -1,0 +1,9 @@
+Financial Analysis
+***************
+Total Sales: $Profit/Losses    38382578.0
+shift1           37614128.0
+netchange          837867.0
+dtype: float64
+Average Net Change: $9857.26
+Greatest Increase in Profits: ['Sep-14'] 2362868.0
+Greatest Decrease in Profits: ['Feb-16'] -2129858.0
